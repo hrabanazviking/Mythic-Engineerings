@@ -97,6 +97,10 @@ A compact definition:
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776472343223.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776472343223.jpg)
+
+---
+
 # What It Is Not
 
 Mythic Engineering is **not**:
