@@ -147,6 +147,10 @@ It keeps the speed and creative force of vibe coding, while adding the systems n
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776472353632.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776472353632.jpg)
+
+---
+
 # The Core Idea in Plain Language
 
 Here is the simplest explanation:
