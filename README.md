@@ -35,6 +35,10 @@ The result is a way of coding that keeps the creative power of vibe coding, but 
 
 ---
 
+
+
+---
+
 # Table of Contents
 
 1. [What Mythic Engineering Is](#what-mythic-engineering-is)  
