@@ -321,6 +321,10 @@ Artifacts:
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776472404086.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image_1776472404086.jpg)
+
+---
+
 # An Easy Version for Beginners
 
 If the full method feels big, use this simpler version.
