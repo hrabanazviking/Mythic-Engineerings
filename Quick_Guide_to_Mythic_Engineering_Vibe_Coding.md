@@ -111,6 +111,10 @@ The **creation begins** with the Vision Scroll (`SYSTEM_VISION.md`), a plain-tex
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/Mythic_Engineers_Toolkit.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/Mythic_Engineers_Toolkit.png)
+
+---
+
 ## IV. The Mythic Engineer's Toolkit
 
 A **Mythic Engineer** requires a minimal but specific set of "artifacts":
