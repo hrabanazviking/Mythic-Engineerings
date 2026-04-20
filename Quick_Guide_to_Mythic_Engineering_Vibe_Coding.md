@@ -43,6 +43,10 @@ There is a historical chasm between the **Realm of Human Intention** (stories, f
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/5pillars_of_the_living_system.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/5pillars_of_the_living_system.png)
+
+---
+
 ## II. The Five Pillars of the Living System
 
 ### Pillar One: Design Intent (The Soul's Blueprint)
