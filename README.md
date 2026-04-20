@@ -2292,6 +2292,8 @@ Do **not** use The Forge Worker for top-level philosophy, deep naming work, or p
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/53454938nmgmgm4354.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/53454938nmgmgm4354.png)
+
 ## The Auditor
 Use for:
 - edge case review
