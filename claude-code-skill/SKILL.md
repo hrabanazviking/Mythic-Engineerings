@@ -1,7 +1,7 @@
 ---
 name: mythic-engineering
-description: Activate Mythic Engineering mode — architecture-first, document-guided, AI-orchestrated software development. Use at the start of any session or task. Encodes the full ME methodology: document-first workflow, coding laws, architecture thinking, and Norse engineering philosophy.
-argument-hint: [task description or leave blank to orient session]
+description: "Activate Mythic Engineering mode — architecture-first, document-guided, AI-orchestrated development. Encodes the full ME methodology: document-first workflow, coding laws, architecture thinking, and Norse engineering philosophy. Use at the start of any session or task."
+argument-hint: "[task description or leave blank to orient session]"
 ---
 
 # Mythic Engineering Mode Activated
