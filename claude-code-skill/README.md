@@ -1,5 +1,11 @@
 # Mythic Engineering — Claude Code Skill
 
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/8c9718dc-9234-4e6b-833f-8f78d625d933.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/8c9718dc-9234-4e6b-833f-8f78d625d933.jpg)
+
+---
+
 A Claude Code skill that activates the full **Mythic Engineering** methodology for any software project.
 
 Invoke it at the start of any session to orient Claude Code to architecture-first, document-guided, AI-orchestrated development.
