@@ -198,6 +198,8 @@ Follow these steps in order when creating a new repository.
 9. Have the Scribe polish all documentation.
 10–12. Repeat steps 1–9 for each additional vertical slice, updating documents as you go.
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0450.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0450.png)
+
 ---
 
 ### Recommended Repository Structure (MD Protocol Ready)
