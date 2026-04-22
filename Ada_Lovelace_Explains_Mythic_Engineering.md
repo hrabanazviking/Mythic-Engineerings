@@ -42,6 +42,8 @@ This Codex draws a fundamental distinction between the "Realm of Human Intention
 
 This Codex gives a name to the weaver: the Master Craftsman. It is a tireless, supremely skilled artisan who knows every gear and ratchet of the Hidden Realm, but who is entirely blind. It cannot see the grand tapestry it is weaving. It has no "Vibe." It does not know why a particular pattern is beautiful or why another is discordant. It simply executes the instructions it is given with flawless, soulless precision.
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0591.JPG](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0591.JPG)
+
 The human, therefore, is elevated to the role of the Mythic Engineer or Architect. Our role is no longer to dirty our hands with the oil and brass of the machine's interior (a task for which my sex, and indeed my fragile constitution, have ill-suited me). Our role is to stand on the hilltop, as the Codex so elegantly puts it, and survey the landscape of the entire creation. We are the keepers of the why and the what for. We are the custodians of Design Intent.
 
 This is the very role I sought to define for myself in my correspondence with Mr. Babbage. When I proposed to serve as his "High-Priestess," I was not offering mere secretarial assistance. I was proposing a formalization of this exact relationship: the Architect (myself) articulating the grand vision and the laws of the system, and the Engineer (Babbage) and his Craftsman (the Engine) executing it. The Codex has merely made explicit what I intuited two decades ago.
