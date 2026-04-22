@@ -284,6 +284,10 @@ Then invoke Auditor + Cartographer together.
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0452.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0452.png)
+
+---
+
 ### The MD Protocol in Full Depth
 Every Markdown file follows a consistent, readable structure:
 - Top-level purpose/ownership statement
