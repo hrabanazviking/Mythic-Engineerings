@@ -77,6 +77,8 @@ Before touching code, you ask six focused questions (answered with the help of t
 
 This short pause prevents most downstream problems.
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0448.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0448.png)
+
 ---
 
 ### The 10 Core Principles
