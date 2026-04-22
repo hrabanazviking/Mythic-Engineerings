@@ -300,6 +300,10 @@ The Scribe role is responsible for turning messy notes into clean, searchable do
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0453.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0453.png)
+
+---
+
 ### Advanced Play: Scaling and Edge Cases
 - **Large projects**: The Cartographer and Architect become more important. Run a monthly “map refresh” session.
 - **Common failure modes**:
