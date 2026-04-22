@@ -250,6 +250,10 @@ End every day with the system better documented than when you started.
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0451.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0451.png)
+
+---
+
 ### Hands-On Techniques
 
 **Refactoring the Mythic Way (7-Step Ritual)**  
