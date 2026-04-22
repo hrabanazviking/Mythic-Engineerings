@@ -36,6 +36,10 @@ Result: A codebase that stays readable, expandable, and consistent—no matter h
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0445.png](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/IMG_0445.png)
+
+---
+
 ### What Mythic Engineering Is Not
 - It is **not** “just vibe coding with extra prompts.” You never let the AI decide architecture or high-level structure unsupervised.
 - It is **not** heavy bureaucracy. There are no endless meetings or ceremonial overhead.
