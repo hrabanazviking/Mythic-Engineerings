@@ -2,6 +2,10 @@
 
 ---
 
+![https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image-15-mythic-engineering.jpg](https://raw.githubusercontent.com/hrabanazviking/Mythic-Engineering/refs/heads/main/image-15-mythic-engineering.jpg)
+
+---
+
 # Mythic Engineering
 ## A GitHub-Ready Technical Handbook for Architecture-First Vibe Coding
 
